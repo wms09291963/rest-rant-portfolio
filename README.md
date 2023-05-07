@@ -22,8 +22,8 @@ Here are the routes defined
 Here's a list of places
 
 | Name | City | State | Cuisines |
-| -------- | -------- | -------- |
-| Jack Stack BBQ |Kansas City   | MO | BBQ |
+| -------- | -------- | -------- |-------|
+| Jack Stack BBQ | Kansas City   | MO | BBQ |
 | Plaza III    | Kansas City | MO | Steakhouse |
 | Manny's   | Kansas City | MO |Mexican |
 | The Bristol   | Kansas City | MO | Seafood |
