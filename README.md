@@ -2,6 +2,7 @@
 
 REST-Rant is an app where users can review restaurants.
 
+Here are the routes defined
 
 | Method | Path | Purpose|
 | -------- | -------- | -------- |
@@ -18,5 +19,12 @@ REST-Rant is an app where users can review restaurants.
 | GET    | * | 404 page (matches any route not defined above)
 
 
+Here's a list of places
 
+| Name | City | State | Cuisines |
+| -------- | -------- | -------- |
+| Jack Stack BBQ |Kansas City   | MO | BBQ |
+| Plaza III    | Kansas City | MO | Steakhouse |
+| Manny's   | Kansas City | MO |Mexican |
+| The Bristol   | Kansas City | MO | Seafood |
 
